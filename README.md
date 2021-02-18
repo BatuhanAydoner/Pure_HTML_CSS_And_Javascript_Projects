@@ -9,3 +9,7 @@ They are project that was done by pure html, css and javascript. Just enjoy and 
 ## Project 2 - Progress Stepper
 [I am a link of this project](https://github.com/BatuhanAydonerDev/Pure_HTML_CSS_And_Javascript_Projects/tree/main/Progress%20Stepper) <br><br>
 <img src="https://github.com/BatuhanAydonerDev/Pure_HTML_CSS_And_Javascript_Projects/blob/main/Progress_Stepper_gif.gif?raw=true" />
+
+## Project 3 - Rotating Menu
+[I am a link of this project](https://github.com/BatuhanAydonerDev/Pure_HTML_CSS_And_Javascript_Projects/tree/main/Rotate%20Page) <br><br>
+<img src="https://github.com/BatuhanAydonerDev/Pure_HTML_CSS_And_Javascript_Projects/blob/main/Rotate_Page_gif.gif?raw=true" />
